@@ -1,3 +1,6 @@
+Port of Tamarack in dotnet core
+
+=================================================================================================
 Tamarack is a micro framework for implementing the Chain of Responsibility pattern in .NET
 =================================================================================================
 
