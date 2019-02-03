@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+        <Title>Tamarack</Title>
+        <Description>A micro framework for implementing the Chain of Responsibility pattern in .NET. An essential tool in the OO toolbox for transforming rigid procedural code into a composable Domain Specific Language.</Description>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageProjectUrl>https://github.com/amir734jj/Tamarack.Core</PackageProjectUrl>
+        <Version>1.0.0</Version>
+        <PackageReleaseNotes>Working state!</PackageReleaseNotes>
+        <AssemblyName>Tamarack.Core</AssemblyName>
+    </PropertyGroup>
+  
+</Project>

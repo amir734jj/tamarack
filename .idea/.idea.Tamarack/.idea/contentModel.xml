@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Tamarack.1168119349.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="IncludeRecursive">
+        <e p="ActivatorServiceProvider.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ITamarackServiceProvider.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Tamarack.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pipeline" t="Include">
+          <e p="ActionPipeline.cs" t="Include" />
+          <e p="EndOfChainException.cs" t="Include" />
+          <e p="extensions" t="Include">
+            <e p="AssemblyPipelineExtensions.cs" t="Include" />
+          </e>
+          <e p="FilterOrderAttribute.cs" t="Include" />
+          <e p="FuncPipeline.cs" t="Include" />
+          <e p="GenericPipeline.cs" t="Include" />
+          <e p="IActionFilter.cs" t="Include" />
+          <e p="IFilter.cs" t="Include" />
+          <e p="IFuncFilter.cs" t="Include" />
+          <e p="IPipeline.cs" t="Include" />
+          <e p="IPipelineFunc.cs" t="Include" />
+          <e p="IPublisher.cs" t="Include" />
+          <e p="Pipeline.cs" t="Include" />
+          <e p="PipelineExtensions.cs" t="Include" />
+        </e>
+        <e p="Tamarack.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tamarack.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
